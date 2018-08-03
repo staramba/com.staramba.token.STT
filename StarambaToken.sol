@@ -6,7 +6,7 @@ import "./RelocationToken.sol";
 /**
  * @title The STT Token contract.
  * 
- * By N. F.
+ * By Nikita Fuchs
  * Credit: Taking ideas from BAT token, NET token and Nimiq token.
  */
  /*is StandardToken */
